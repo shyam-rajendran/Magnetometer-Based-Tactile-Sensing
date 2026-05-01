@@ -12,7 +12,7 @@
 
 This tactile sensor utilizes magnetometers as a means to detect force vectors acting on the surface. This is done through the combination of magnetometers and a silicone elastomer embedded with neodymium magnets.
 
-This project is heavily inspired by the work of [AnySkin](-skin.github.io/), [ReSkin](https://reskin.dev/) & [Bio-Skin](https://williamalexanda.github.io/Bio-Skin/) and the project is intended to be further developed for magnetic locaization, which as of now is still in development. 
+This project is heavily inspired by the work of [AnySkin](any-skin.github.io/), [ReSkin](https://reskin.dev/) & [Bio-Skin](https://williamalexanda.github.io/Bio-Skin/) and the project is intended to be further developed for magnetic locaization, which as of now is still in development. 
 
 The PCB was designed entirely in Altium Designer. I've included the entire Altium project file including the design files, libraries, 3D models, documentations, schematics, gerber.
 
