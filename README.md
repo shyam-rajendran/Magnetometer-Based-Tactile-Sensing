@@ -1,4 +1,12 @@
 # Tactile Sensor
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/afbd89a3-7457-42cd-a9aa-89590a2e5a8e" alt="Photo 1" height="300"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/42c1ee6e-7fb7-4b70-8fd8-93d750456562" alt="Photo 2" height="300"/>
+</p>
+
+
+
 This tactile sensor utilizes magnetometers as a means to detect force vectors acting on the surface. This is done through the combination of magnetometers and a silicone elastomer embedded with neodymium magnets.
 
 This project is heavily inspired by the work of [AnySkin](-skin.github.io/), [ReSkin](https://reskin.dev/) & [Bio-Skin](https://williamalexanda.github.io/Bio-Skin/) and the project is intended to be further developed for magnetic locaization, which as of now is still in development. 
