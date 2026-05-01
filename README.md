@@ -97,7 +97,7 @@ _**Multiplexer Channel Designation**_
   </td>
   <td>
 
-<img src="https://github.com/user-attachments/assets/f63fbd72-ba26-41fd-a725-5e88107469f1" alt="channel desig" width="450"/>
+<img src="https://github.com/user-attachments/assets/18645521-e377-4f2b-93a0-40aba4e0c912" alt="channel desig" width="450"/>
 
   </td>
   </tr>
