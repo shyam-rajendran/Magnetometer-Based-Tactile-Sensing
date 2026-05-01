@@ -1,11 +1,5 @@
 # Tactile Sensor
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/d051cf76-6250-4eae-99dd-382642c0f2a3" alt="Photo 1" height="300" width="200"/> 
-  <img src="https://github.com/user-attachments/assets/afbd89a3-7457-42cd-a9aa-89590a2e5a8e" alt="Photo 2" height="300"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/57f90979-b273-4339-96dc-6a769467078b" alt="Photo 3" height="300"/>
-</p>
-
 <table align="center">
   <tr>
     <td><img src="https://github.com/user-attachments/assets/d051cf76-6250-4eae-99dd-382642c0f2a3" height="300"/></td>
@@ -13,6 +7,12 @@
     <td><img src="https://github.com/user-attachments/assets/57f90979-b273-4339-96dc-6a769467078b" height="300"/></td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d051cf76-6250-4eae-99dd-382642c0f2a3" height="300" style="margin: 10px"/>
+  <img src="https://github.com/user-attachments/assets/afbd89a3-7457-42cd-a9aa-89590a2e5a8e" height="300" style="margin: 10px"/>
+  <img src="https://github.com/user-attachments/assets/57f90979-b273-4339-96dc-6a769467078b" height="300" style="margin: 10px"/>
+</p>
 
 This tactile sensor utilizes magnetometers as a means to detect force vectors acting on the surface. This is done through the combination of magnetometers and a silicone elastomer embedded with neodymium magnets.
 
