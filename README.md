@@ -97,12 +97,11 @@ _**Multiplexer Channel Designation**_
   </td>
   <td>
 
-<img src="https://github.com/user-attachments/assets/18645521-e377-4f2b-93a0-40aba4e0c912" alt="channel desig" width="450"/>
+<img src="https://github.com/user-attachments/assets/981dae9c-9ab3-46c9-a430-664b47bb5daa" alt="channel desig" width="450"/>
 
   </td>
   </tr>
 </table>
-
 
 ## Silicone Elastomer Fabrication
 For this project, a two part silicone elastomer is used ([Amazon Link](https://www.amazon.in/RANA-POLYMERS-Silicone-Non-Toxic-Odorless-1/dp/B0F47XKC3K?source=ps-sl-shoppingads-lpcontext&smid=AQNXSE8C5E2UX)) which is mixed in a 1:1 ratio and is then poured into the 3D printed mold design. It roughly takes 3-4 hours for curing and can be easily taken out post curing. 
