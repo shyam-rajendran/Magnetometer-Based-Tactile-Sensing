@@ -8,12 +8,6 @@
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/d051cf76-6250-4eae-99dd-382642c0f2a3" height="300" style="margin: 10px"/>
-  <img src="https://github.com/user-attachments/assets/afbd89a3-7457-42cd-a9aa-89590a2e5a8e" height="300" style="margin: 10px"/>
-  <img src="https://github.com/user-attachments/assets/57f90979-b273-4339-96dc-6a769467078b" height="300" style="margin: 10px"/>
-</p>
-
 This tactile sensor utilizes magnetometers as a means to detect force vectors acting on the surface. This is done through the combination of magnetometers and a silicone elastomer embedded with neodymium magnets.
 
 This project is heavily inspired by the work of [AnySkin](-skin.github.io/), [ReSkin](https://reskin.dev/) & [Bio-Skin](https://williamalexanda.github.io/Bio-Skin/) and the project is intended to be further developed for magnetic locaization, which as of now is still in development. 
@@ -101,7 +95,7 @@ _**Multiplexer Channel Designation**_
   </td>
   <td>
 
-<img src="/image/Markdown-mark.svg" alt="Sample Image" width="250"/>
+<img src="https://github.com/user-attachments/assets/f63fbd72-ba26-41fd-a725-5e88107469f1" alt="channel desig" width="250"/>
 
   </td>
   </tr>
