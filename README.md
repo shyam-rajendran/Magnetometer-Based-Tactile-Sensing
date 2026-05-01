@@ -3,10 +3,12 @@
 <table align="center">
   <tr>
     <td><img src="https://github.com/user-attachments/assets/d051cf76-6250-4eae-99dd-382642c0f2a3" height="300"/></td>
+    <td><img src="https://github.com/user-attachments/assets/c37f32a2-53b2-4c65-9f92-d1a859c695e1" height="300"/></td>
     <td><img src="https://github.com/user-attachments/assets/afbd89a3-7457-42cd-a9aa-89590a2e5a8e" height="300"/></td>
     <td><img src="https://github.com/user-attachments/assets/57f90979-b273-4339-96dc-6a769467078b" height="300"/></td>
   </tr>
 </table>
+
 
 This tactile sensor utilizes magnetometers as a means to detect force vectors acting on the surface. This is done through the combination of magnetometers and a silicone elastomer embedded with neodymium magnets.
 
@@ -81,21 +83,21 @@ _**Multiplexer Channel Designation**_
     <td>
 
 **Multiplexer Channels**
-| Channel No | Sensor |
+| Channel No | Sensor Address |
 |------------|--------|
 | Channel 0  | 0x0F   |
 | Channel 1  | 0x0F   |
 | Channel 2  | 0x0F   |
 | Channel 3  | 0x0F   |
 | Channel 4  | 0x0F   |
-| Channel 5  | 0x71   |
-| Channel 6  | 0x71   |
+| Channel 5  | 0x48   |
+| Channel 6  | 0x48   |
 | Channel 7  | Unassigned |
 
   </td>
   <td>
 
-<img src="https://github.com/user-attachments/assets/f63fbd72-ba26-41fd-a725-5e88107469f1" alt="channel desig" width="250"/>
+<img src="https://github.com/user-attachments/assets/f63fbd72-ba26-41fd-a725-5e88107469f1" alt="channel desig" width="450"/>
 
   </td>
   </tr>
@@ -116,12 +118,15 @@ The entire process can be divided into three stages:
 3. `Second Elastomer Layer`
     - The second elastomer layer is poured on top of the magnets, filling out the entire remaining volume of the mold. Allow it to cure for 3-4 hours and then the mold walls can be removed.
 
-image 1
+<table align="center">
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/eee23ca1-0df5-4f24-8a89-6e0f0bf49ba4" height="300"/></td>
+    <td><img src="https://github.com/user-attachments/assets/1e204fbe-abdb-4a55-8d50-2a1676f74412" height="300"/></td>
+    <td><img src="https://github.com/user-attachments/assets/5852615f-00c5-44ee-a2ac-737416e612a1" height="300"/></td>
+  </tr>
+</table>
 
-image 2
-
-image 3
-
+After taking out the silicone elastomer, it can be put directly on top of the enclosure and is ready to use! 
 
 
 Author: Shyam Rajendran
