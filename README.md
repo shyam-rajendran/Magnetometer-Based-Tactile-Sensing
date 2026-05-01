@@ -1,7 +1,7 @@
 # Tactile Sensor
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d051cf76-6250-4eae-99dd-382642c0f2a3" alt="Photo 1" height="300"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/d051cf76-6250-4eae-99dd-382642c0f2a3" alt="Photo 1" height="300" width="50"/> &nbsp;&nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/afbd89a3-7457-42cd-a9aa-89590a2e5a8e" alt="Photo 2" height="300"/> &nbsp;&nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/57f90979-b273-4339-96dc-6a769467078b" alt="Photo 3" height="300"/>
 </p>
