@@ -72,7 +72,7 @@ All the magnetometers share the same I2C address, therefore to prevent address c
 _**I2C Peripheral Addresses**_
 | Sensor  | I2C Address |
 | ------- |------|
-| MLX90393| 0X0F |
+| MLX90393| 0x0F |
 | TMP102  | 0x48 |
 | TCA9548 | 0x71 |
 
@@ -127,5 +127,5 @@ The entire process can be divided into three stages:
 
 After taking out the silicone elastomer, it can be put directly on top of the enclosure and is ready to use! 
 
-
+\
 Author: Shyam Rajendran
